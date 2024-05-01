@@ -1,6 +1,6 @@
 #  介绍
 
-本项目实现了从0构建三层神经网络分类器，实现了Fashion-MNIST的分类。数据集下载地址：https://github.com/zalandoresearch/fashion-mnist
+数据集下载地址：https://github.com/zalandoresearch/fashion-mnist
 
 # 操作流程
 
